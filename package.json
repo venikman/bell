@@ -41,11 +41,11 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "boom": "4.2.x",
-    "cryptiles": "3.x.x",
-    "hoek": "4.x.x",
-    "joi": "10.x.x",
-    "wreck": "10.x.x"
+    "boom": "6.0.0",
+    "cryptiles": "4.0.1",
+    "hoek": "5.0.3",
+    "joi": "13.0.0",
+    "wreck": "13.0.3"
   },
   "peerDependencies": {
     "hapi": ">=13.5.0"
